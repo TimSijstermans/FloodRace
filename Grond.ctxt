@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Check\ of\ de\ dijk\ doorbroken\ is.\r\n
+comment1.params=
+comment1.target=void\ checkDoorbraak()
+comment1.text=\r\n\ Check\ if\ the\ dyke\ breaks.\r\n
+comment2.params=
+comment2.target=void\ addScore()
+comment2.text=\r\n\ Add\ the\ counters\ to\ the\ final\ score\r\n
+numComments=3

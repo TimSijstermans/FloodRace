@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ScenarioBuilder()
+comment1.params=
+comment1.target=Calimiteit[]\ chooseCalimiteiten()
+comment1.text=\r\n\ In\ deze\ methode\ worden\ er\ de\ random\ calimiteiten\ gekozen\ op\ basis\ van\r\n\ _AantalCalimiteiten\ voor\ het\ scenario\ dat\ hij\ gaat\ samenstellen.\r\n
+comment2.params=
+comment2.target=void\ fillCalimiteiten()
+comment2.text=Hier\ worden\ alle\ calimiteiten\ in\ de\ globale\ Array\ _Calimiteiten\ gestopt.
+comment3.params=aantalCalimiteiten
+comment3.target=Scenario\ buildScenario(int)
+comment3.text=\r\n\ Hier\ wordt\ de\ uiteindelijke\ Scenario\ gemaakt.\ Hier\ wordt\ ook\ de\r\n\ aantalCalimiteiten\ mee\ gegeven.\r\n
+comment4.params=
+comment4.target=int\ getAantalCalimiteiten()
+comment4.text=Getter\ voor\ het\ aantal\ Calimiteiten
+numComments=5

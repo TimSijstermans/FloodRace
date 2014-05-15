@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=c1\ c2
+comment0.target=Scenario(Calimiteit,\ Calimiteit)
+comment0.text=De\ verschillende\ contructors\ op\ basis\ van\ de\ hoeveelheid\ calimiteiten
+comment1.params=c1\ c2\ c3
+comment1.target=Scenario(Calimiteit,\ Calimiteit,\ Calimiteit)
+comment2.params=c1\ c2\ c3\ c4
+comment2.target=Scenario(Calimiteit,\ Calimiteit,\ Calimiteit,\ Calimiteit)
+comment3.params=calimiteit
+comment3.target=Calimiteit\ getCalimiteit(int)
+comment3.text=De\ Getter\ voor\ een\ bepaalde\ calimiteit\ terug\ te\ geven.
+comment4.params=aantalCalimiteiten
+comment4.target=void\ checkCompletion(int)
+comment5.params=
+comment5.target=boolean\ isCompleted()
+comment5.text=Een\ getter\ om\ te\ kijken\ of\ de\ scenario\ voltooid\ is
+comment6.params=value
+comment6.target=void\ setCompleted(boolean)
+comment6.text=Setter\ om\ eventueel\ de\ scenario\ _Completed\ op\ true\ te\ zetten
+numComments=7

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Information()
+comment1.params=value
+comment1.target=void\ add(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getOldInformation()
+comment3.params=
+comment3.target=java.lang.String\ getNewInformation()
+numComments=4

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=coord
+comment1.target=int\ getRandomNumber(java.lang.String)
+comment2.params=value
+comment2.target=void\ setCalimiteit(Calimiteit)
+comment2.text=\r\n\ Hier\ wordt\ de\ calimiteit\ geplaats\ in\ de\ actor\ en\ de\ Health\ van\ de\r\n\ calimiteit\ gehaald\ naar\ de\ Actor\r\n
+comment3.params=value
+comment3.target=void\ setHealth(int)
+comment4.params=value
+comment4.target=void\ setMaxHealth(int)
+comment5.params=
+comment5.target=boolean\ isPlaced()
+comment6.params=value
+comment6.target=void\ setPlaced(boolean)
+numComments=7

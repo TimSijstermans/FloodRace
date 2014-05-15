@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=time
+comment0.target=Timer(int)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ updateImage()
+comment3.params=
+comment3.target=void\ timedScore()
+comment4.params=score
+comment4.target=void\ add(int)
+comment4.text=\r\n\ Add\ a\ new\ score\ to\ the\ current\ counter\ value.\r\n
+numComments=5

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=WPlayer()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ playerInit()
+comment3.params=
+comment3.target=void\ checkDirection()
+comment4.params=direction
+comment4.target=void\ checkCollidable(int)
+comment5.params=direction
+comment5.target=void\ walk(int)
+comment6.params=direction
+comment6.target=boolean\ checkCollisionBorder(int)
+comment7.params=stack
+comment7.target=void\ checkStack(WCollidable)
+numComments=8

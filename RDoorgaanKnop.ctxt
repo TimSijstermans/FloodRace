@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=winning
+comment0.target=RDoorgaanKnop(int)
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Als\ hasWon\ 1\ is.\ Ga\ terug\ naar\ het\ menu.\ Anders\ ga\ terug\ naar\ het\ spel\r\n
+numComments=2

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=WCars()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=int\ getDirection()
+comment3.params=
+comment3.target=boolean\ checkBorder()
+comment4.params=item
+comment4.target=void\ addCounter(WItems)
+numComments=5

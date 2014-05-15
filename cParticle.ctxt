@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=X\ Y\ power\ life
+comment0.target=cParticle(int,\ int,\ int,\ int)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ update()
+numComments=3

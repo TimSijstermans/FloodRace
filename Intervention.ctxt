@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=actor\ text
+comment0.target=Intervention(greenfoot.Actor,\ java.lang.String)
+comment1.params=
+comment1.target=greenfoot.Actor\ getActor()
+comment2.params=
+comment2.target=java.lang.String\ getText()
+numComments=3

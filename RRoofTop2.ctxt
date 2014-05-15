@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=void\ placePowerUps()
+comment1.text=\r\n\ Plaatst\ powerups\ boven\ de\ gebouwen,\ maar\ niet\ ernaast.\r\n
+comment2.params=
+comment2.target=void\ placeDoubleJump()
+numComments=3

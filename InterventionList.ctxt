@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=inter1
+comment0.target=InterventionList(Intervention)
+comment1.params=inter1\ inter2
+comment1.target=InterventionList(Intervention,\ Intervention)
+comment2.params=inter1\ inter2\ inter3
+comment2.target=InterventionList(Intervention,\ Intervention,\ Intervention)
+comment3.params=inter1\ inter2\ inter3\ inter4
+comment3.target=InterventionList(Intervention,\ Intervention,\ Intervention,\ Intervention)
+comment4.params=inter
+comment4.target=Intervention\ getIntervention(int)
+comment5.params=
+comment5.target=int\ getAantalInterventions()
+numComments=6

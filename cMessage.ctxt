@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=text\ size\ color
+comment0.target=cMessage(java.lang.String,\ int,\ java.awt.Color)
+numComments=1
